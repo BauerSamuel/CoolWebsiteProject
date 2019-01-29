@@ -21,6 +21,10 @@ aside{
   margin-top: 80px;
 }
 
+aside p{
+  width: 240px;
+}
+
 .mainArticle h1{
   border-top: 20px solid #cfe2f3;
 }
